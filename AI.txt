@@ -1,0 +1,10 @@
+superpowers plugin
+gstack
+ -office-houres
+ -browse
+
+grillme
+
+improvement-architecture
+codex:review
+vercel react best practices
